@@ -1,0 +1,11 @@
+PC_Name	PC_LINCS_ID	PC_Provider_Name	PC_Provider_Catalog_ID	PC_Organism	PC_Tissue	PC_Cell_Type	PC_Cell_Type_Detail	PC_Disease	PC_Growth_Properties	PC_Donor_Sex	PC_Donor_Age	PC_Donor_Ethnicity
+GM02183	LPC-1015	Coriell Cell Repository	GM02183	Homo Sapien	NA	Fibroblast	Untransformed	Unknown; possible HD	Adherent Fibroblast	Female	21	Caucasian
+GM03814	LPC-1014	Coriell Cell Repository	GM03814	Homo Sapien	Skin	Fibroblast	Untransformed	Clinically unaffected	Adherent Fibroblast	Female		Caucasian
+ND30625	LPC-1016	Coriell Cell Repository	ND30625	Homo Sapien	NA	Fibroblast	NA	Clinically unaffected	Adherent Fibroblast	Male	76	Caucasian
+F09128	LPC-1017	Wasington University	F09128	Homo Sapien	NA	Fibroblast	NA	ALS	Adherent Fibroblast	Male	46	NA
+F09229	LPC-1018			Homo sapiens	Fibroblast			ALS				
+F10-330	LPC-1019	Wasington University	F10-330	Homo Sapien	NA	Fibroblast	NA	ALS	Adherent Fibroblast	Female	53	NA
+F09152	LPC-1020	Wasington University	F09152	Homo Sapien	NA	Fibroblast	NA	ALS	Adherent Fibroblast	Male	60	NA
+83 Fibroblast	LPC-1022	Coriell Cell Repository	83 Fibroblast	Homo Sapien	NA	Fibroblast	NA	SPINAL MUSCULAR ATROPHY I	Adherent Fibroblast	Male		Caucasian
+GM00232	LPC-1021	Coriell Cell Repository	GM00232	Homo Sapien	NA	Fibroblast	NA	SPINAL MUSCULAR ATROPHY I	Adherent Fibroblast	Male	7	Caucasian
+GM09677	LPC-1023	Coriell Cell Repository	GM09677	Homo Sapien	Lens	Fibroblast	NA	SPINAL MUSCULAR ATROPHY I	Adherent Fibroblast	Male	23	Polish/German?
